@@ -32,4 +32,4 @@ To scale this application for a real-world production environment, I would imple
 * **Deployment:** Utilize **Docker** for containerization and deploy on platforms like Vercel or AWS.
 
 ---
-Built with ❤️ by Yangchen Sherpa
+Built by Yangchen Sherpa
