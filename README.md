@@ -1,6 +1,6 @@
 # Staff Management Portal
 
-A modern, responsive web application built as part of the Frontend Developer Intern assignment. This portal allows staff members to manage their daily tasks through a secure login and an interactive dashboard.
+A modern, responsive web application built as part of the Frontend Developer Intern. This portal allows staff members to manage their daily tasks through a secure login and an interactive dashboard.
 
 ## 🚀 Key Features
 * **Authentication:** A dedicated Login page with form validation and simulated JWT-style session management using `localStorage`.
